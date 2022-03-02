@@ -7,3 +7,28 @@
     width: 130px;
     height: auto;
 }
+
+#hero{
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+
+.returnal_logo{
+    height: 50px;
+}
+
+.it-takes-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.sfondo_grigio{
+    background-color: #1F1F1F;
+    height: 70vh;
+}
