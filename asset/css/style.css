@@ -25,7 +25,11 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+}
+
+.takes-two_logo{
+    height: 130px;
+
 }
 
 .sfondo_grigio{
