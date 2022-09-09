@@ -20,6 +20,19 @@
     height: 50px;
 }
 
+.hov:hover{
+    color: red !important;
+}
+
+.btn-change-color:hover{
+    background-color: blue!important;
+    
+}
+
+a img:hover{
+    opacity: 70%;
+}
+
 .it-takes-two{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
